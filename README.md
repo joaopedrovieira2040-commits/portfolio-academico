@@ -1,36 +1,46 @@
-# Portfólio de Projetos Acadêmicos e Pessoais - Controle de Versão
+# 🎨 Portfólio de Design, Animação & Motion Design
 
-Este repositório foi desenvolvido como parte do **Desafio - Entrega Intermediária: Criação de Repositório com Versionamento**. O objetivo principal é aplicar boas práticas de organização, documentação e versionamento de arquivos utilizando as ferramentas Git e GitHub, integrando os resultados com o ambiente profissional do LinkedIn.
+Este espaço foi desenvolvido para organizar, documentar e versionar minhas principais produções, estudos e criações nas áreas de animação 2D/3D, design vetorial e identidade visual. 
 
----
-
-## 📂 Estrutura do Repositório
-
-O projeto foi planejado e estruturado em diretórios específicos para garantir clareza e clareza na navegação dos arquivos:
-
-* **`projetos-academicos`**: Destinado ao armazenamento de produções, trabalhos e atividades práticas desenvolvidas ao longo da trajetória acadêmica.
-    * *Exemplos inclusos:* Projetos de animação, poses de personagens 3D e treinamentos de vetores/gradientes (`.ai`, `.png`).
-* **`projetos-pessoais`**: Espaço voltado para criações autorais, portfólio técnico e desenvolvimento de competências práticas individuais.
-    * *Exemplos inclusos:* Animações 2D em vídeo (`.mp4`) e renderizações de colorização (`.psd`).
+Aqui utilizo as melhores práticas de versionamento com **Git e GitHub** para manter um histórico transparente e estruturado de toda a minha evolução técnica.
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## 📂 Estrutura de Projetos
 
-* **Git**: Versionamento local e gerenciamento de histórico do projeto.
-* **GitHub**: Hospedagem em nuvem, compartilhamento seguro e gerenciamento do repositório público.
-* **GitHub Pages**: Publicação e deploy da página web estática para exibição do portfólio.
-* **LinkedIn**: Conexão do repositório técnico com o perfil profissional para divulgação de competências.
+O repositório está dividido em diretórios estratégicos para facilitar a navegação pelas mídias e arquivos de desenvolvimento:
 
----
-
-## 🌐 Link do Projeto
-
-* **Página Publicada (GitHub Pages):** [Acessar Web Site](https://joaopedrovieira2040-commits.github.io/portfolio-academico/)
+* **`projetos-escolares`**: Centraliza projetos focados em desafios técnicos, treinos de ferramentas e desenvolvimento de competências específicas.
+    * *Criações inclusas:* Modelagens de personagens, poses 3D e estudos avançados de vetores e gradientes (`.ai`, `.png`).
+* **`projetos-pessoais`**: Espaço dedicado a projetos autorais, produções independentes e criações para o meu portfólio comercial.
+    * *Criações inclusas:* Animações completas em 2D (`.mp4`) e artes finalizadas de alta fidelidade (`.psd`).
 
 ---
 
-## 🧑‍💻 Autor
+## 🛠️ Tecnologias & Ferramentas
 
-* **João Pedro Vieira**
-* Projeto acadêmico focado em Versionamento de Código e Práticas de Organização Digital.
+### Produção Criativa:
+* **Adobe After Effects**: Criação e finalização de motion design e animações 2D.
+* **Adobe Illustrator**: Ilustração vetorial estruturada e aplicação de gradientes.
+* **Adobe Photoshop**: Colorização digital e tratamento de composições visuais.
+
+### Infraestrutura Técnica:
+* **Git**: Controle de versão local e organização de histórico.
+* **GitHub**: Hospedagem na nuvem e compartilhamento seguro do portfólio.
+* **GitHub Pages**: Deploy e publicação da página web de apresentação do portfólio.
+
+---
+
+## 🌐 Links e Contato
+
+Fique à vontade para explorar os arquivos do projeto ou visualizar a versão do portfólio em formato de página web:
+
+* **Página do Portfólio (Live):** [Acessar Web Site](https://joaopedrovieira2040-commits.github.io/portfolio-academico/)
+* **Meu Perfil Profissional:** [Conectar no LinkedIn](https://www.linkedin.com/)
+
+---
+
+## 🧑‍💻 Sobre Mim
+
+* **João Pedro Vieira Lopes**
+* Desenvolvedor Visual focado em Animação, Motion Design e Design Gráfico Vetorial.
