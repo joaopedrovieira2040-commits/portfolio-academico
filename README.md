@@ -8,9 +8,9 @@ Este repositório foi desenvolvido como parte do **Desafio - Entrega Intermediá
 
 O projeto foi planejado e estruturado em diretórios específicos para garantir clareza e clareza na navegação dos arquivos:
 
-* **`projetos-academicos/`**: Destinado ao armazenamento de produções, trabalhos e atividades práticas desenvolvidas ao longo da trajetória acadêmica.
+* **`projetos-academicos`**: Destinado ao armazenamento de produções, trabalhos e atividades práticas desenvolvidas ao longo da trajetória acadêmica.
     * *Exemplos inclusos:* Projetos de animação, poses de personagens 3D e treinamentos de vetores/gradientes (`.ai`, `.png`).
-* **`projetos-pessoais/`**: Espaço voltado para criações autorais, portfólio técnico e desenvolvimento de competências práticas individuais.
+* **`projetos-pessoais`**: Espaço voltado para criações autorais, portfólio técnico e desenvolvimento de competências práticas individuais.
     * *Exemplos inclusos:* Animações 2D em vídeo (`.mp4`) e renderizações de colorização (`.psd`).
 
 ---
