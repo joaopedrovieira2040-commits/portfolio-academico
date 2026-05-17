@@ -24,9 +24,8 @@ O projeto foi planejado e estruturado em diretórios específicos para garantir 
 
 ---
 
-## 🌐 Links do Projeto
+## 🌐 Link do Projeto
 
-* **Repositório Principal:** [Acessar GitHub](https://github.com/joaopedrovieira2040-commits/portfolio-academico)
 * **Página Publicada (GitHub Pages):** [Acessar Web Site](https://joaopedrovieira2040-commits.github.io/portfolio-academico/)
 
 ---
